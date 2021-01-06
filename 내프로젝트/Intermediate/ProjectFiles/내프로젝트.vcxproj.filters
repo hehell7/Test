@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\내프로젝트.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1E35598F-C892-4E0E-B5A8-A6E886ECF74C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\내프로젝트.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\내프로젝트Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{16DC02E9-AD98-4F32-89EF-66B503FA312B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\내프로젝트">
+      <UniqueIdentifier>{14308EDA-EC00-4E25-9FFE-974C3776CCF5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\내프로젝트\내프로젝트.Build.cs">
+      <Filter>Source\내프로젝트</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\내프로젝트\내프로젝트.cpp">
+      <Filter>Source\내프로젝트</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\내프로젝트\내프로젝트.h">
+      <Filter>Source\내프로젝트</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\내프로젝트\내프로젝트Character.cpp">
+      <Filter>Source\내프로젝트</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\내프로젝트\내프로젝트Character.h">
+      <Filter>Source\내프로젝트</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\내프로젝트\내프로젝트GameMode.cpp">
+      <Filter>Source\내프로젝트</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\내프로젝트\내프로젝트GameMode.h">
+      <Filter>Source\내프로젝트</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\내프로젝트\내프로젝트PlayerController.cpp">
+      <Filter>Source\내프로젝트</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\내프로젝트\내프로젝트PlayerController.h">
+      <Filter>Source\내프로젝트</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
